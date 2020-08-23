@@ -1,0 +1,36 @@
+C_code,Country,Op_npp_no,OP_net_cap_MWe,Cstr_npp_no,Cstr_net_cap_MWe,TWh_supplied,Nat_elec_pct
+ar,Argentina,3,1641,1,25,7.9,5.9
+am,Armenia,1,375,,,2,27.8
+bd,Bangladesh,,,2,2160,,
+by,Belarus,,,2,2220,,
+be,Belgium,7,5930,,,41.4,47.6
+br,Brazil,2,1884,1,1340,15.2,2.7
+bg,Bulgaria,2,2006,,,15.9,37.5
+ca,Canada,19,13554,,,94.9,14.9
+cn,China,48,45518,11,10564,330.1,4.9
+cz,Czech Republic,6,3932,,,28.6,35.2
+fi,Finland,4,2794,1,1600,22.9,34.7
+fr,France,58,63130,1,1630,382.4,70.6
+de,Germany,6,8113,,,NA,NA
+hu,Hungary,4,1902,,,15.4,49.2
+in,India,22,6255,7,4824,40.7,3.2
+ir,Iran,1,915,1,974,5.9,1.8
+jp,Japan,33,31679,2,2653,65.7,7.5
+kr,South Korea,24,23172,4,5360,138.8,26.2
+mx,Mexico,2,1552,,,10.9,4.5
+nl,Netherland,1,482,,,3.7,3.1
+pk,Pakistan,5,1318,2,2028,9.1,6.6
+ro,Romania,2,1300,,,10.4,18.5
+ru,Russia,38,28437,4,4525,195.5,19.7
+sk,Slovakia,4,1814,2,880,14.3,53.9
+si,Slovenia,1,688,,,5.5,37
+za,South Africa,2,1860,,,13.6,6.7
+es,Spain,7,7121,,,55.9,21.4
+se,Sweden,7,7740,,,64.4,34
+ch,Switzerland,4,2960,,,25.4,23.9
+tr,Turkey,,,1,114,,
+ae,United Arab Emirates,,,4,380,,
+uk,United Kingdom,15,8923,2,260,51,15.6
+ua,Ukraine,15,13107,2,70,78.1,53.9
+us,United States of America,96,98152,2,234,809.4,19.7
+"",TOTAL,443,392098,54,57441,2586.2,
